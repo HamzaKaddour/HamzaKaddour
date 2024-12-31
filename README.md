@@ -1,4 +1,4 @@
-
+WIP
 # Hello, I'm HAMZA KADDOUR
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -6,13 +6,13 @@
 Hamza Kaddour received the B.S. degree in Telecommunication from Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a CyberSecurity Software Engineer at Responsible Cyber Pte. Ltd. (Singapore). <br>
 He is currently a Graduate Research Assistant and pursuing a M.S. degree in Computer Engineering with an emphasis on Cybersecurity, Machine Learning, and Network communications at Idaho State University. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service QoS. He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
 
-## Objective
+<!--## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. -->
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
