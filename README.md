@@ -28,7 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    (cisco-ccna-certwizard.png)(https://example.com)
+    [<img src="cisco-ccna-certwizard.png">](https://link-to-your-URL/)
+   <!-- (cisco-ccna-certwizard.png)(https://example.com) -->
 </div>
 
 <!-- ### Endpoint
