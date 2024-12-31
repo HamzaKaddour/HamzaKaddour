@@ -4,10 +4,11 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hamza Kaddour received the B.S. degree in Telecommunication from Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a CyberSecurity Software Engineer at Responsible Cyber Pte. Ltd. (Singapore).
+He is currently a Graduate Research Assistant and pursuing a M.S. degree in Computer Engineering with an emphasis on Cybersecurity, Machine Learning, and Network communications at Idaho State University. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service QoS. He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -24,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- ... [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
@@ -57,5 +58,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- WebSecScore: a comprehensive web application security testing tool designed to assess the security level of web domains. Subsequently, I will be implementing security tests and using some available APIs to calculate a security score for the input domain(s), and fetching the results in a web page. The project will focus on two distinct types of domains: personal domains and corporate domains. The tool will offer a suite of security tests, ensuring that personal web applications are rigorously tested for common vulnerabilities, while corporate domains will undergo additional enterprise-level tests that include compliance checks.
 - SOC Automation Project
