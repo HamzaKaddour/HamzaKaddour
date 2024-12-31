@@ -28,9 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" />
+    [![Cybersecurity Avatar](cisco-ccna-certwizard.png)](https://example.com)
 </div>
 
 <!-- ### Endpoint
