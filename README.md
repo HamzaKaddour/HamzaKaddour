@@ -29,9 +29,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-89CFF0?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMAP-C70039?&style=for-the-badge&logo=NMAP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-2E8B57?&style=for-the-badge&logo=NMAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-FB7221?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Coding
