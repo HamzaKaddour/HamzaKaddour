@@ -3,8 +3,8 @@ WIP
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hamza Kaddour received the B.S. degree in Telecommunication from Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a CyberSecurity Software Engineer at Responsible Cyber Pte. Ltd. (Singapore). <br>
-He is currently a Graduate Research Assistant and pursuing a M.S. degree in Computer Engineering with an emphasis on Cybersecurity, Machine Learning, and Network communications at Idaho State University. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service QoS. He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
+Hamza Kaddour received a B.S. degree in Telecommunication from the Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a CyberSecurity Software Engineer at Responsible Cyber Pte. Ltd. (Singapore). <br>
+He is currently a graduate research and teaching assistant pursuing an M.S. degree in computer engineering with an emphasis on cybersecurity, machine learning, and network communications at Idaho State University. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service QoS. He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
 
 <!--## Objective
 
@@ -30,21 +30,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" />
 </div>
 
-### Endpoint
+<!-- ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+</div> -->
 
-### SIEM
+<!--### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+</div> -->
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
