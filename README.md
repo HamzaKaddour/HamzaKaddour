@@ -34,6 +34,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Coding
+<div>
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/-Cisco Packet Tracer-89CFF0?&style=for-the-badge&logo=Cisco Packet Tracer&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMAP-C70039?&style=for-the-badge&logo=NMAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
 <!-- ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
