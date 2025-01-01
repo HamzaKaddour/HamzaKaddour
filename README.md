@@ -39,6 +39,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/- -A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MYSQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+
+### Cybersecurity tools
+<div>   
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+</div>
+
+
+### Cloud
+<div>   
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 <!-- ### Endpoint
