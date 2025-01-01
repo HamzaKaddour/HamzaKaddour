@@ -73,8 +73,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Cloud
 <div>   
-    <img src="https://img.shields.io/badge/-AWS Lambda-FF9900?&style=for-the-badge&logo=awslambda&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logo=awslambda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Secrets Manager-DD344C?&style=for-the-badge&logo=awssecretsmanager&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netskope-0096FF?&style=for-the-badge&logo=&logoColor=white" />
+    
 <!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
 <!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
 </div>
