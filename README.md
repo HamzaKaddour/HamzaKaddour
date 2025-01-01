@@ -67,7 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-Keras-D00000?&style=for-the-badge&logo=keras&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-scikit-learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-scikit learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
 
