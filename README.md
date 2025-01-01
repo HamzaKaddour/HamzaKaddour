@@ -75,7 +75,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>   
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logo=awslambda&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Secrets Manager-DD344C?&style=for-the-badge&logo=awssecretsmanager&logoColor=white" />
+    <img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-API Gateway-FF4F8B?&style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQS-FF4F8B?&style=for-the-badge&logo=amazonsqs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cognito-DD344C?&style=for-the-badge&logo=amazoncognito&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Secrets Manager-DD344C?&style=for-the-badge&logo=awssecretsmanager&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/-Netskope-0096FF?&style=for-the-badge&logo=&logoColor=white" />
     
 <!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
