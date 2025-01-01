@@ -73,7 +73,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Cloud
 <div>   
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logo=awslambda&logoColor=white" />
     <img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white" />
     <img src="https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
