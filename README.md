@@ -41,27 +41,42 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MYSQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 
 ### Cybersecurity tools
 <div>   
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+</div>
+
+### Database & Data Engineering
+<div>   
+    <img src="https://img.shields.io/badge/-MYSQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+</div>
+
+### Data Science
+<div>   
+    <img src="https://img.shields.io/badge/-OpenAI GYM-0081A5?&style=for-the-badge&logo=openaigym&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Keras-D00000?&style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-scikit-learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
 
 ### Cloud
 <div>   
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS Lambda-FF9900?&style=for-the-badge&logo=awslambda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
+<!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
 </div>
 
 <!-- ### Endpoint
