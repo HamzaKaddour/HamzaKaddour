@@ -37,7 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Coding
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/-C-89CFF0?&style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-C70039?&style=for-the-badge&logo=NMAP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
