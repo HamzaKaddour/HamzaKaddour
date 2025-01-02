@@ -6,19 +6,7 @@ WIP
 Hamza Kaddour received a B.S. degree in Telecommunication from the Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a CyberSecurity Software Engineer at Responsible Cyber Pte. Ltd. (Singapore). <br>
 He is currently a graduate research and teaching assistant pursuing an M.S. degree in computer engineering with an emphasis on cybersecurity, machine learning, and network communications at Idaho State University. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service (QoS). He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
 
-
-## Projects
-
-
-| Project                                         | Description        |
-|-----------------------------------------------|----------------------------|
-| <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>          |  Comprehensive web application security testing tool designed to assess the security level of web domains. |
-| <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">Evaluating the Performance of Classification Models for IoT Intrusion Detection</a> | Comparative study implementation of different ML, DL, and RL techniques for IDS in IoT |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| <a href="https://github.com/HamzaKaddour/PolymerMFR">PolymerMFR</a>      | Academic project on studying the Polymer Melt Flow Rate (MFR) and the correlation with other labels, and the main research purpose is to find the best ML algorithm to predict MFR|
-
-
-## Tools
+## Skills & Tools
 
 
 ### Cybersecurity
@@ -108,6 +96,16 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
 <a href="https://drive.google.com/file/d/1-VCtrBq_SQeoi0eEfEIyo4zC5ExsnPvR/view?pli=1"><img src="https://img.shields.io/badge/IoT Fundamentals-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/d61fc7c5-cb2a-421a-9a0e-09dcca333c85?source=linked_in_profile"><img src="https://img.shields.io/badge/-CyberOps Associate-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 </div>
+
+## Projects
+
+
+| Project                                         | Description        |
+|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>          |  Comprehensive web application security testing tool designed to assess the security level of web domains. |
+| <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">Evaluating the Performance of Classification Models for IoT Intrusion Detection</a> | Comparative study implementation of different ML, DL, and RL techniques for IDS in IoT |
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| <a href="https://github.com/HamzaKaddour/PolymerMFR">PolymerMFR</a>      | Academic project on studying the Polymer Melt Flow Rate (MFR) and the correlation with other labels, and the main research purpose is to find the best ML algorithm to predict MFR|
 
 ## Volunteering
 <div>
