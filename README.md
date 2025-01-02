@@ -49,7 +49,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Incident Response-C70039?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Web Security-7FFFD4?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Code Security-6495ED?&style=for-the-badge&logo=&logoColor=white" />
-    <img src="https://img.shields.io/badge/- Cyber Risk Assessmnet-FF7F50?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber Risk Assessmnet-FF7F50?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Compliance-FFC300?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cryptography-FFFDD0?&style=for-the-badge&logo=&logoColor=white" />
 <!--     <img src="https://img.shields.io/badge/--?&style=for-the-badge&logo=&logoColor=white" /> -->
 </div>
 
