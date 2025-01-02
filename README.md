@@ -11,12 +11,12 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. -->
 
-## Skills
+## Projects
 
 
-| Skill                                         | Associated Project         |
+| Project                                         | Description        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| <a href="<a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>">          |  comprehensive web application security testing tool designed to assess the security level of web domains. |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
