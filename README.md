@@ -12,12 +12,11 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
 
 | Project                                         | Description        |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>          |  comprehensive web application security testing tool designed to assess the security level of web domains. |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>          |  Comprehensive web application security testing tool designed to assess the security level of web domains. |
+| <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">Evaluating the Performance of Classification Models for IoT Intrusion Detection</a> | Comparative study implementation of different ML, DL, and RL techniques for IDS in IoT |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| <a href="https://github.com/HamzaKaddour/PolymerMFR">PolymerMFR</a>      | Academic project on studying the Polymer Melt Flow Rate (MFR) and the correlation with other labels, and the main research purpose is to find the best ML algorithm to predict MFR|
+
 
 ## Tools
 
