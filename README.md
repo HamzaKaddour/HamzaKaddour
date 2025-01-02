@@ -32,12 +32,15 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-Cryptography-FFFDD0?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hack The Box-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wapiti-808080?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
 ### Coding
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/- -A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/--A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
@@ -50,6 +53,9 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco Packet Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-2E8B57?&style=for-the-badge&logo=NMAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BurpSuite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721412?&style=for-the-badge&logo=openssl&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-FB7221?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -83,6 +89,7 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-Cognito-DD344C?&style=for-the-badge&logo=amazoncognito&logoColor=white" />
     <img src="https://img.shields.io/badge/-Secrets Manager-DD344C?&style=for-the-badge&logo=awssecretsmanager&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/-Netskope-0096FF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ### Documentation and Planning
