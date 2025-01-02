@@ -30,6 +30,8 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-Cyber Risk Assessmnet-FF7F50?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Compliance-FFC300?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cryptography-FFFDD0?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hack The Box-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=white" />
 </div>
 
 ### Coding
@@ -39,6 +41,8 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
 ### Network
@@ -81,6 +85,14 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-Netskope-0096FF?&style=for-the-badge&logo=&logoColor=white" />
 </div>
 
+### Documentation and Planning
+<div>   
+    <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ASANA-F06A6A?&style=for-the-badge&logo=asana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitBook-BBDDE5?&style=for-the-badge&logo=gitbook&logoColor=white" />
+</div>
+
+
 
 ## Certifications
 <div>
@@ -89,3 +101,10 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
 <a href="https://drive.google.com/file/d/1-VCtrBq_SQeoi0eEfEIyo4zC5ExsnPvR/view?pli=1"><img src="https://img.shields.io/badge/IoT Fundamentals-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/d61fc7c5-cb2a-421a-9a0e-09dcca333c85?source=linked_in_profile"><img src="https://img.shields.io/badge/-CyberOps Associate-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
 </div>
+
+## Volunteering
+<div>
+<img src="https://img.shields.io/badge/-TEDxSupcom-E62B1E?&style=for-the-badge&logo=ted&logoColor=white" />
+<img src="https://img.shields.io/badge/-IEEE Club SupCom-00629B?&style=for-the-badge&logo=ieee&logoColor=white" />
+</div>
+
