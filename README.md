@@ -1,5 +1,5 @@
 WIP
-# Hello, I'm HAMZA KADDOUR
+# HAMZA KADDOUR
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -33,6 +33,8 @@ He is currently a **graduate research and teaching assistant** pursuing an **M.S
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitLab-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?&style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SPOJ-337AB7?&style=for-the-badge&logo=spoj&logoColor=white" />
     <a href="https://leetcode.com/u/HamzaK1998/"><img src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
