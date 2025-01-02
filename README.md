@@ -89,7 +89,7 @@ He is currently a graduate research and teaching assistant pursuing an M.S. degr
     <img src="https://img.shields.io/badge/-SQS-FF4F8B?&style=for-the-badge&logo=amazonsqs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cognito-DD344C?&style=for-the-badge&logo=amazoncognito&logoColor=white" />
     <img src="https://img.shields.io/badge/-Secrets Manager-DD344C?&style=for-the-badge&logo=awssecretsmanager&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/-Netskope-0096FF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netskope-FFC300?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
