@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project                                         | Description        |
 |-----------------------------------------------|----------------------------|
-| <a href="<a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>">          |  comprehensive web application security testing tool designed to assess the security level of web domains. |
+| <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>">          |  comprehensive web application security testing tool designed to assess the security level of web domains. |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
