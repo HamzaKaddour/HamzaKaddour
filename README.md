@@ -86,6 +86,7 @@ He is currently a **graduate research and teaching assistant** pursuing an **M.S
     <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/-ASANA-F06A6A?&style=for-the-badge&logo=asana&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitBook-BBDDE5?&style=for-the-badge&logo=gitbook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Overleaf-47A141?&style=for-the-badge&logo=overleaf&logoColor=white" />
 </div>
 
 
