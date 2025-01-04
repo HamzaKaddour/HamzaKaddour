@@ -105,7 +105,7 @@ He is currently a **graduate research and teaching assistant** pursuing an **M.S
 | Project                                         | Description        |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/HamzaKaddour/WebSecScore">WebSecScore</a>          |  Comprehensive web application security testing tool designed to assess the security level of web domains. |
-| <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">Evaluating the Performance of Classification Models for IoT Intrusion Detection</a> | Comparative study implementation of different ML, DL, and RL techniques for IDS in IoT |
+| <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">Evaluating the Performance of Classification Models for IoT Intrusion Detection</a> | Research paper: Comparative study implementation of different ML, DL, and RL techniques for IDS in IoT <a href="https://doi-org.libpublic3.library.isu.edu/10.1109/ORSS62274.2024.10697949"><img src="https://img.shields.io/badge/-IEEE-00629B?&style=for-the-badge&logo=ieee&logoColor=white" /></a>|
 | <a href="https://github.com/HamzaKaddour/PolymerMFR">PolymerMFR</a>      | Academic project on studying the Polymer Melt Flow Rate (MFR) and the correlation with other labels, and the main research purpose is to find the best ML algorithm to predict MFR|
 
 ## Volunteering
