@@ -2,8 +2,13 @@
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hamza Kaddour received a **B.S. degree in Computer and Telecommunication Engineering** from the Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. After graduation, Hamza worked as a **CyberSecurity Software Engineer** at Responsible Cyber Pte. Ltd. (Singapore). <br>
-He is currently a **graduate research and teaching assistant** pursuing an **M.S. degree in Computer Engineering** with an emphasis on cybersecurity, machine learning, and network communications at Idaho State University, USA. In research, he is working on reinforcement learning techniques in cybersecurity, including the trade-off between security and Quality of Service (QoS). He is working on projects and laboratories and is actively looking for opportunities to enrich his industry and academic experience.
+Hamza Kaddour is an **AI Software Engineer at Stevens Institute of Technology**, working on advanced applications of **artificial intelligence, deep learning, and intelligent systems**. <br>
+
+He holds an **M.S. degree in Computer Engineering** from **Idaho State University, USA**, where he served as a **Graduate Research and Teaching Assistant**. His research focused on **reinforcement learning, cybersecurity, and network communications**, with emphasis on **AI-driven decision-making and QoS–security trade-offs**. <br>
+
+He received a **B.S. degree in Computer and Telecommunication Engineering** from the Higher University of Communication of Tunis (Sup'Com), Tunisia, in 2022. He also worked as a **Cybersecurity Software Engineer** at Responsible Cyber Pte. Ltd. (Singapore). <br>
+
+His interests include **AI-driven cybersecurity, reinforcement learning, wireless networks, and scalable intelligent systems**, bridging cutting-edge research with real-world deployment.
 
 ## Skills & Tools
 
