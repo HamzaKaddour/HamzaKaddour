@@ -1,6 +1,6 @@
 # HAMZA KADDOUR
 
-### Machine Learning Engineer | GeoAI • Deep Learning • Computer Vision • Multimodal AI • Cloud AI
+### Machine Learning Engineer | GeoAI • Deep Learning • Computer Vision • Multimodal AI • LLMs • Cloud AI
 
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hamzakaddour.github.io/"><img src="https://img.shields.io/badge/-Portfolio-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -12,7 +12,7 @@ I hold an **M.S. in Computer Engineering** from **Idaho State University**, wher
 
 I received my **B.S. in Computer and Telecommunication Engineering** from the Higher University of Communication of Tunis (**Sup'Com**), Tunisia, and previously worked as a **Cybersecurity Software Engineer** at Responsible Cyber Pte. Ltd. (Singapore). <br>
 
-My current interests are centered on **production-oriented machine learning, GeoAI, computer vision, multimodal learning, remote sensing, cloud AI, model evaluation, explainable AI, MLOps, and scalable intelligent systems**.
+My current interests are centered on **production-oriented machine learning, GeoAI, computer vision, multimodal learning, large language models, remote sensing, cloud AI, model evaluation, explainable AI, MLOps, and scalable intelligent systems**.
 
 ---
 
@@ -21,11 +21,25 @@ My current interests are centered on **production-oriented machine learning, Geo
 <div>
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?&style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?&style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/-XGBoost-EB5B24?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenAI%20Gym-0081A5?&style=for-the-badge&logo=openaigym&logoColor=white" />
     <img src="https://img.shields.io/badge/-Keras-D00000?&style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenAI%20Gym-0081A5?&style=for-the-badge&logo=openaigym&logoColor=white" />
+</div>
+
+### Production ML / LLM Tooling
+
+<div>
+    <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MLflow-0194E2?&style=for-the-badge&logo=mlflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FAISS-0467DF?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Sentence%20Transformers-FFCC4D?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-ONNX-005CED?&style=for-the-badge&logo=onnx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Evidently-6C5CE7?&style=for-the-badge" />
 </div>
 
 ### Focus Areas
@@ -34,7 +48,9 @@ My current interests are centered on **production-oriented machine learning, Geo
     <img src="https://img.shields.io/badge/-GeoAI-0B7A75?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Deep%20Learning-5C2D91?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Computer%20Vision-00629B?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Large%20Language%20Models-111827?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Transformers-FFD21E?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-RAG-7C3AED?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Multimodal%20AI-2F80ED?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Semantic%20Segmentation-4C78A8?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Reinforcement%20Learning-8A2BE2?&style=for-the-badge" />
