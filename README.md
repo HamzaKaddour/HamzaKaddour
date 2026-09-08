@@ -1,18 +1,18 @@
 # HAMZA KADDOUR
 
-### Machine Learning Engineer | Deep Learning • Computer Vision • Reinforcement Learning • Cloud AI
+### Machine Learning Engineer | GeoAI • Deep Learning • Computer Vision • Multimodal AI • Cloud AI
 
 <a href="https://www.linkedin.com/in/hamzakaddour/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hamzakaddour.github.io/"><img src="https://img.shields.io/badge/-Portfolio-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/HamzaK1998/"><img src="https://img.shields.io/badge/LeetCode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
-I am a **Machine Learning / AI Software Engineer at Stevens Institute of Technology**, working on advanced applications of **deep learning, computer vision, multimodal AI, reinforcement learning, and intelligent systems**. My work spans the full ML workflow—from data preparation and model development to evaluation, scalable processing, and deployment-oriented engineering. <br>
+I am a **Machine Learning / AI Software Engineer at Stevens Institute of Technology**, working on advanced applications of **GeoAI, deep learning, computer vision, multimodal AI, remote sensing, reinforcement learning, and intelligent systems**. My work spans the full ML workflow—from geospatial and multimodal data preparation to model development, evaluation, explainability, scalable processing, and deployment-oriented engineering. <br>
 
 I hold an **M.S. in Computer Engineering** from **Idaho State University**, where I served as a **Graduate Research and Teaching Assistant**. My research has covered **reinforcement learning, cybersecurity, wireless communications, and AI-driven decision-making**, including published work on intelligent networking and intrusion detection. <br>
 
 I received my **B.S. in Computer and Telecommunication Engineering** from the Higher University of Communication of Tunis (**Sup'Com**), Tunisia, and previously worked as a **Cybersecurity Software Engineer** at Responsible Cyber Pte. Ltd. (Singapore). <br>
 
-My current interests are centered on **production-oriented machine learning, computer vision, multimodal learning, cloud AI, model evaluation, MLOps, and scalable intelligent systems**.
+My current interests are centered on **production-oriented machine learning, GeoAI, computer vision, multimodal learning, remote sensing, cloud AI, model evaluation, explainable AI, MLOps, and scalable intelligent systems**.
 
 ---
 
@@ -22,6 +22,7 @@ My current interests are centered on **production-oriented machine learning, com
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenAI%20Gym-0081A5?&style=for-the-badge&logo=openaigym&logoColor=white" />
     <img src="https://img.shields.io/badge/-Keras-D00000?&style=for-the-badge&logo=keras&logoColor=white" />
@@ -30,12 +31,27 @@ My current interests are centered on **production-oriented machine learning, com
 ### Focus Areas
 
 <div>
+    <img src="https://img.shields.io/badge/-GeoAI-0B7A75?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Deep%20Learning-5C2D91?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Computer%20Vision-00629B?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Transformers-FFD21E?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Reinforcement%20Learning-8A2BE2?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Multimodal%20AI-2F80ED?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Semantic%20Segmentation-4C78A8?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Reinforcement%20Learning-8A2BE2?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Explainable%20AI-7B61FF?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-MLOps-2E8B57?&style=for-the-badge" />
+</div>
+
+### GeoAI & Remote Sensing
+
+<div>
+    <img src="https://img.shields.io/badge/-Remote%20Sensing-1F6E8C?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SAR-31572C?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Satellite%20Imagery-3A86FF?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Geospatial%20ML-2A9D8F?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-GIS-6A994E?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-QGIS-589632?&style=for-the-badge&logo=qgis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ArcGIS-2C7AC3?&style=for-the-badge&logo=esri&logoColor=white" />
 </div>
 
 ---
@@ -49,6 +65,8 @@ My current interests are centered on **production-oriented machine learning, com
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CI%2FCD-2F855A?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
