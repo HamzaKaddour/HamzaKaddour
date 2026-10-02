@@ -114,7 +114,7 @@ My current interests are centered on **production-oriented machine learning, Geo
 
 | Project | What it demonstrates |
 |---|---|
-| <a href="https://stats-from-the-world-34vkcmkxtqwtzi3c9wnfaq.streamlit.app/">**Global Economy Dashboard**</a> | End-to-end data product using Python, World Bank APIs, ETL, Parquet, interactive visualization, and cloud deployment. |
+| <a href="https://hamzakaddour.github.io/Stats-from-the-World/">**Global Economy Dashboard**</a> | Production-style economic intelligence dashboard with validated World Bank ETL, Parquet analytics, Plotly geospatial visualization, automated GitHub Actions refreshes, and serverless GitHub Pages deployment. |
 | <a href="https://github.com/HamzaKaddour/Generalizable_Deep_RL_Smart_Handover_5G-">**Generalizable Deep RL for Intelligent WiGig Handover**</a> | DQN, PPO, and A2C for adaptive 5G/WiGig handover, hyperparameter optimization, reward engineering, and generalization across user-density scenarios. <a href="https://doi.org/10.1109/VTC2025-Fall65116.2025.11310213"><img src="https://img.shields.io/badge/-IEEE-00629B?&style=for-the-badge&logo=ieee&logoColor=white" /></a> |
 | <a href="https://github.com/HamzaKaddour/Wire-Detection-using-YOLO">**Wire Detection using YOLO**</a> | Computer vision and object detection using multiple YOLO generations on aerial imagery, with quantitative model comparison. |
 | <a href="https://github.com/HamzaKaddour/DL_ML_IoT_Security">**ML/DL for IoT Intrusion Detection**</a> | Comparative ML, deep learning, and reinforcement-learning implementation for network intrusion detection on ToN-IoT. <a href="https://doi.org/10.1109/ORSS62274.2024.10697949"><img src="https://img.shields.io/badge/-IEEE-00629B?&style=for-the-badge&logo=ieee&logoColor=white" /></a> |
